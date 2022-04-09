@@ -1,0 +1,12 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.jasper</groupId>
+    <artifactId>greeting-parent</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>greeting-parent</name>
+    <modules>
+        <module>greeting-common</module>
+        <module>greeting-service</module>
+    </modules>
+</project>
